@@ -31,14 +31,27 @@
 }
 #containerMemes {
   display: flex;
-  width: 600px;
+  width: 500px;
   height: 100px;
 }
 .prontos {
   background-color: white;
   margin-right: 5px;
-  border: 1px solid black;
-  width: 100%;
-  height: 100%;
   background-size: cover;
+}
+#meme-1 {
+  width: 26%;
+  height: 100%;
+}
+#meme-2 {
+  width: 26%;
+  height: 100%;
+}
+#meme-3 {
+  width: 26%;
+  height: 100%;
+}
+#meme-4 {
+  width: 26%;
+  height: 100%;
 }
